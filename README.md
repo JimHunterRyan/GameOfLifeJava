@@ -1,6 +1,6 @@
 # Game Of Life
 
-A Conway's Game Of Lifee made in Java  
+A Conway's Game Of Life made in Java  
 ![](javagui.gif)  
 
 ## Instructions
